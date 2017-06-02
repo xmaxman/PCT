@@ -80,7 +80,7 @@ function create_config( )
 		"tools"
 	},
     sudo_users = {
-   350727100,
+   315017219,
    sudo_id
 },
     admins = {},
